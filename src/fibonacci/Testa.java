@@ -8,6 +8,7 @@ public class Testa {
 			
 		System.out.println("resultado: " + f.calcula(0));
 		System.out.println("resultado: " + f.calcula(1));
+		System.out.println("resultado: " + f.calcula(3));
 
 	}
 
