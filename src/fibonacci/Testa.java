@@ -7,6 +7,7 @@ public class Testa {
 		Fibonacci f = new Fibonacci();
 			
 		System.out.println("resultado: " + f.calcula(0));
+		System.out.println("resultado: " + f.calcula(1));
 
 	}
 

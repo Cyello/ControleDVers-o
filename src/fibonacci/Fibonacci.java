@@ -3,7 +3,12 @@ package fibonacci;
 public class Fibonacci {
 	
 	public int calcula(int valor) {
-		return 0;
+		if (valor == 0){
+			return 0;
+		}
+		else {
+			return 1;
+		}
 	}
 
 }
